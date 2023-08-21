@@ -35,7 +35,7 @@ Give a ⭐ if this project helped you!
 
 > 💡BECOME A PARTRON
 ## 📝 License
-Copyright ©️ 2019 Frank Abgrall.
+Copyright ©️ 2023 Kevin roland.
 This project is [MIT](https://opensource.org/license/mit/) Licensed.this 
 
 ##
