@@ -1,5 +1,5 @@
 
-# _Welcome to readme-md-generator_ 👋
+# Welcome to readme-md-generator 👋
 Add badges from somewhere like: [shields.io](https://shields.io/)
 
 [![MIT License](https://img.shields.io/badge/version-0.50-blue.svg)](https://choosealicense.com/licenses/mit/)
@@ -40,4 +40,4 @@ This project is [Geekster](https://classes.geekster.in) Licensed.this
 
 ##
 
-This README was generated with ❤️ by ##kevin roland##
+This README was generated with ❤️ by ##--kevin roland--##
