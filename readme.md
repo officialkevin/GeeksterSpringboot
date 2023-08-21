@@ -1,5 +1,5 @@
 
-__# Welcome to readme-md-generator 👋__
+# _Welcome to readme-md-generator_ 👋
 Add badges from somewhere like: [shields.io](https://shields.io/)
 
 [![MIT License](https://img.shields.io/badge/version-0.50-blue.svg)](https://choosealicense.com/licenses/mit/)
