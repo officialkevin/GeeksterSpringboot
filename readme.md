@@ -23,9 +23,9 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 npm run [test](https://docs.npmjs.com/cli/v8/commands/npm-test)
 
 ## Author
-👤 __Frank Abgrall__
-* Twitter: [@avinash](https://twitter.com/Avinash5785)
-* Github: [avinashsingh9140](https://github.com/avinashsingh9140/Readme-example)
+👤 __Kevin Roland__
+* Twitter: [@kevinroland](https://twitter.com/kevinroland)
+* Github: [officialkevin](https://github.com/officialkevin/Readme-example)
 
 ## 🤝 Contributing
 Contributions,issues and features requests are welcome!
@@ -40,4 +40,4 @@ This project is [MIT](https://opensource.org/license/mit/) Licensed.this
 
 ##
 
-This README was generated with ❤️ by ##night->coder##
+This README was generated with ❤️ by ##kevin roland##
