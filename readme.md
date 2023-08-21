@@ -36,7 +36,7 @@ Give a ⭐ if this project helped you!
 > 💡BECOME A PARTRON
 ## 📝 License
 Copyright ©️ 2023 Kevin roland.
-This project is [MIT](https://opensource.org/license/mit/) Licensed.this 
+This project is [Geekster](https://classes.geekster.in) Licensed.this 
 
 ##
 
